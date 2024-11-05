@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gui Wallace</h1>
 <h3 align="center">A passionate Computer Science student at the University of São Paulo, aspiring to embark on a fulfilling career leveraging technology to make a positive impact.</h3>
 
-- 🔭 I’m currently working as a Software Engineering Intern at [HUB Usp Innovation](https://hubusp.inovacao.usp.br/)
+- 🔭 I’m currently working as a Software Engineering Intern.
 
 - 📝 Conducting research on software engineering and architecture for machine learning applications, funded by CNPQ.
 
